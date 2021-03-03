@@ -28,7 +28,7 @@
     "jshint": "^2.9.5",
     "jshint-stylish": "^2.2.1",
     "node-bourbon": "^4.2.8",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^3.0.1",
     "read-config": "^2.0.0",
     "require-dir": "^0.3.2",
     "yargs": "^10.1.1",
